@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio5Kotlin</string>
+    <string name="recargar">Recargar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
